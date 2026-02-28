@@ -3,7 +3,9 @@ Everything needed for install klipper environment
 
 ## ShakeTune
 
-```wget -O - https://raw.githubusercontent.com/Frix-x/klippain-shaketune/main/install.sh | bash```
+```
+wget -O - https://raw.githubusercontent.com/Frix-x/klippain-shaketune/main/install.sh | bash
+```
 
 ## Kamp
 
