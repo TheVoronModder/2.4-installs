@@ -48,3 +48,12 @@ is_system_service: False
 managed_services: klipper
 info_tags: desc=Cartographer Plugin
 ```
+
+## LED EFFECTS
+
+```
+cd ~
+git clone https://github.com/julianschill/klipper-led_effect.git
+cd klipper-led_effect
+./install-led_effect.sh
+```
